@@ -1,6 +1,7 @@
 # Recipe Api
 
-This is an backend application for storeing food recipe information.
+An rest api for managing your recipes. 
+This application is build using Django
 
 ## API List
 1) Register User

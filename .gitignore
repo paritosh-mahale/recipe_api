@@ -1,0 +1,11 @@
+
+
+/.idea/
+/Procfile
+/env
+/media/uploads/recipe/
+/core/__pycache__/
+/my_recipe/__pycache__/
+/recipe/__pycache__/
+/webuser/__pycache__/
+

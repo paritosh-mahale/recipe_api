@@ -1,7 +1,9 @@
 # Recipe Api
 
 An rest api for managing your recipes. 
-This application is build using Django
+
+
+This application is build using Django and django-rest-framework
 
 ## API List
 1) Register User
